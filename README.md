@@ -1,4 +1,4 @@
-# 💡 project-ideas
+# 💡 Project Ideas
 A repository holding ideas for personal projects
 
 <br>
